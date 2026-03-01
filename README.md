@@ -1,5 +1,4 @@
 # CS-210
-
 SNHU Computer Science 210
 
 3-3 Project One: Chada Tech Clock
