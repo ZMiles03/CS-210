@@ -3,6 +3,7 @@ SNHU Computer Science 210
 
 3-3 Project One: Chada Tech Clock
 
+
 Summarize the project and what problem it was solving.
 This project involved the user creating a clock that allows you to add time to it.
 
