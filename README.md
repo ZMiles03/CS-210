@@ -23,3 +23,18 @@ The overall project would be usable across this course and the next courses afte
 How did you make this program maintainable, readable, and adaptable?
 Following standards was the first way I made this program maintainable, readable, and adaptable. Outside of this the next way I made this program maintainable was the overall layout of the program.
 
+
+
+
+# CS-250
+SNHU Computer Science 250
+
+
+How do i interpret user needs and implement them into a program? How does creating "User Stories" help with this?
+User Stories helps developers learn what the user is requesting when it comes to specific features of a program. It specifically helps the developers identify any specific feature that might be missing that a user can think of that the developer may not.
+
+How do i approach developing programs? What Agile process do I hope to incorporate into my future development work?
+When it comes to developing programs, I like to work in sections, making sure the section I am working on is functional before moving onto another unless required for integration into eachother. The biggest process within Agile that I hope to integrate is the overall flexibility and adaptation aspects. 
+
+What does it mean to be a good team member in software development?
+A good team member can involve multiple aspects regardless of if it is software development or a simple cashiering job, with the primary aspect is communication with team members and making sure you can pull your own weight without slowing everyone else down.
